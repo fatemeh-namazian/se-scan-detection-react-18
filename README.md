@@ -5,15 +5,15 @@ This project is actively maintained and has been updated to support **React 18**
 
 # useScanDetection
 
-![npm](https://img.shields.io/npm/v/use-scan-detection-react-18)
-![downloads](https://img.shields.io/npm/dm/use-scan-detection-react-18)
+![npm](https://img.shields.io/npm/v/use-scanner-detection-with-react-18)
+![downloads](https://img.shields.io/npm/dm/use-scanner-detection-with-react-18)
 
 A React hook for detecting barcode scanners in the DOM.
 
 ## Installation
 
 ```bash
-npm i use-scan-detection-react-18
+npm i use-scanner-detection-with-react-18
 ```
 
 ## Usage
@@ -54,7 +54,7 @@ Here's an example of how you can use the `useScanDetection` hook in a React comp
 
 ```js
 import React, { useState } from 'react';
-import useScanDetection from 'use-scan-detection-react-18';
+import useScanDetection from 'use-scanner-detection-with-react-18';
 
 const Input = () => {
     const [value, setValue] = useState("");
