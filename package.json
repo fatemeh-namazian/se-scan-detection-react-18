@@ -21,7 +21,7 @@
   "author": "Fatemeh Namazian <fatemehnamazian0@gmail.com> (https://github.com/fatemeh-namazian)",
   "license": "MIT",
   "peerDependencies": {
-    "react": "^18.3.1"
+    "react": "^18.2.0"
   },
   "devDependencies": {
     "@testing-library/jest-dom": "^6.6.3",
